@@ -220,7 +220,6 @@ main {
   margin: 1rem;
   height: 4rem;
   padding: 0 2rem 0 1rem;
-  animation: to-right 1.5s ease;
 }
 .pricing input[type="radio"] {
   all: unset;
